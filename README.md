@@ -29,7 +29,7 @@
         deploy.prototxt
         mobilenet_iter_73000.caffemodel
     
-        Alternatively, use the following commands in your Jupyter Notebook to download the files:
+        Alternatively, use the following commands to download the files:
 
         import urllib.request
         
